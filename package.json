@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": "index.json",
+  "bin": "index.json",
   "repository": "git@github.com:gvade/prettier-config.git",
   "author": "Andrii Gera <and.gerasymchuk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "gvade",
+    "prettier"
+  ]
 }
